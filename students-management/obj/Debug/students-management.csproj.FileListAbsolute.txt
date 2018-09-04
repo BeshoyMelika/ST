@@ -1,0 +1,24 @@
+c:\users\besho\documents\visual studio 2012\Projects\students-management\students-management\bin\Debug\students-management.exe.config
+c:\users\besho\documents\visual studio 2012\Projects\students-management\students-management\bin\Debug\students-management.exe
+c:\users\besho\documents\visual studio 2012\Projects\students-management\students-management\bin\Debug\students-management.pdb
+c:\users\besho\documents\visual studio 2012\Projects\students-management\students-management\obj\Debug\students-management.csprojResolveAssemblyReference.cache
+c:\users\besho\documents\visual studio 2012\Projects\students-management\students-management\obj\Debug\students_management.Form1.resources
+c:\users\besho\documents\visual studio 2012\Projects\students-management\students-management\obj\Debug\students_management.Properties.Resources.resources
+c:\users\besho\documents\visual studio 2012\Projects\students-management\students-management\obj\Debug\students-management.csproj.GenerateResource.Cache
+c:\users\besho\documents\visual studio 2012\Projects\students-management\students-management\obj\Debug\students-management.exe
+c:\users\besho\documents\visual studio 2012\Projects\students-management\students-management\obj\Debug\students-management.pdb
+c:\users\besho\documents\visual studio 2012\Projects\students-management\students-management\obj\Debug\students_management.login.resources
+c:\users\besho\documents\visual studio 2012\Projects\students-management\students-management\obj\Debug\students_management.changesetting.resources
+E:\FCIS\students-management\students-management\bin\Debug\students-management.exe.config
+E:\FCIS\students-management\students-management\obj\Debug\students-management.exe
+E:\FCIS\students-management\students-management\obj\Debug\students-management.pdb
+E:\FCIS\students-management\students-management\bin\Debug\students-management.exe
+E:\FCIS\students-management\students-management\bin\Debug\students-management.pdb
+E:\FCIS\students-management\students-management\obj\Debug\students-management.csprojResolveAssemblyReference.cache
+E:\FCIS\students-management\students-management\obj\Debug\students_management.changesetting.resources
+E:\FCIS\students-management\students-management\obj\Debug\students_management.Form1.resources
+E:\FCIS\students-management\students-management\obj\Debug\students_management.login.resources
+E:\FCIS\students-management\students-management\obj\Debug\students_management.Properties.Resources.resources
+E:\FCIS\students-management\students-management\obj\Debug\students-management.csproj.GenerateResource.Cache
+E:\FCIS\students-management\students-management\obj\Debug\students_management.start.resources
+E:\FCIS\students-management\students-management\obj\Debug\students_management.add.resources
